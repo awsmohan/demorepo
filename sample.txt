@@ -1,1 +1,4 @@
 This is sample
+This is a change after stage
+This is third line in working dir
+This is fourth line not in stage
