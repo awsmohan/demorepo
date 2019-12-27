@@ -3,3 +3,4 @@ This is a change after stage
 This is third line in working dir
 This is fourth line not in stage
 This is change in remote repo
+This is another change in remote repo
